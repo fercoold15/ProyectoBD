@@ -1,0 +1,8 @@
+
+Y
+java:S1854"<Remove this useless assignment to local variable "producto".(ï†¹Ç8Ûˆ•×½1
+G	java:S106
+"+Replace this use of System.out by a logger.(²™û”8ßˆ•×½1
+>
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ8àˆ•×½1
+]	java:S125"<This block of commented-out lines of code should be removed.(ä–¬Üýÿÿÿÿ8àˆ•×½1
